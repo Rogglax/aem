@@ -168,6 +168,10 @@ Import-Package: javax.annotation;version=0.0.0,*
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
         </dependency>
+        <dependency>
+            <groupId>biz.aQute.bnd</groupId>
+            <artifactId>bndlib</artifactId>
+        </dependency>
 
 
         <!-- Testing -->
